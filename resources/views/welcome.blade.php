@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
   <link href="{{ asset('css/dev.css') }}" rel="stylesheet">
+  <link rel="shortcut icon" type="image/png" href="{{asset('img/outlined-logo.png')}}" />
   <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
-  <title>Document</title>
+  <title>Arpochi | General Santos City</title>
 </head>
 <body class="antialiased font-sans">
   <div class="relative min-h-screen md:flex">
@@ -82,10 +83,10 @@
         <img class="inline-block h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
  
         <div class="absolute ml-12 top-0 h-16 ...">
-          <span class="font-medium text-white">Alicia Vikander</span> 
+          <span class="font-medium text-white">Kiyan Patrick</span> 
         </div>
         <div class="absolute ml-12 bottom-0 h-11 text-gray-400">
-          <span class="text-sm mt-2 text-red-100">alicia@sisyphus.com</span> 
+          <span class="text-sm mt-2 text-red-100">KiyanPatrick@sisyphus.com</span> 
         </div>
         <div class="absolute right-0 top-0 h-16 mr-5">
           <svg class="w-4 h-4 cursor-pointer animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
